@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>PDF · Liang Zhang</title>
+  <link rel="stylesheet" href="/viewer/viewer.css">
+</head>
+<body>
+  <header>
+    <a id="back" href="/Publications/">← Publications</a>
+    <span id="document-name">PDF</span>
+    <a id="download" hidden>Download PDF</a>
+  </header>
+  <nav aria-label="PDF navigation" id="toolbar">
+    <button id="previous" disabled>Previous</button>
+    <label><span id="page-label">Page</span> <input id="page-number" type="number" min="1" value="1" disabled></label>
+    <span id="page-count">/ -</span>
+    <button id="next" disabled>Next</button>
+    <label><span id="zoom-label">Zoom</span> <select id="zoom" disabled><option value="fit">Fit width</option><option value="1">100%</option><option value="1.5">150%</option><option value="2">200%</option></select></label>
+  </nav>
+  <p id="status" role="status" aria-live="polite">Loading PDF…</p>
+  <main id="paper"><canvas id="pdf-canvas" aria-label="PDF page"></canvas></main>
+  <noscript>Please enable JavaScript or download the PDF from the publication page.</noscript>
+  <script type="module" src="/viewer/viewer.mjs"></script>
+</body>
+</html>
