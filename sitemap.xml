@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/about/index.html</loc>
+    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
+    <loc>https://liangzhangprc.github.io/zh/Publications/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/zh/Publications/index.html</loc>
+    <loc>https://liangzhangprc.github.io/zh/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/zh/index.html</loc>
+    <loc>https://liangzhangprc.github.io/about/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -84,4 +84,88 @@
   
 
   
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-sms-physics-guided-mr-locomotion.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-sms-mr-electrical-joint.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-tie-mode-scheduled-joints.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-ral-mr-go.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-tii-sins-fault-alignment.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-taes-manifold-path-following.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-jsen-camera-placement.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-ast-fixed-wing-tracking.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ral-bearing-deployment.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-mst-mr-unipedal-robot.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-jfi-chattering-free-estimation.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ricai-localization-uncertainty.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ifac-multi-rover-exploration.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ifac-angle-positioning.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ifac-visual-attention-swarm.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ddcls-adaptive-pso-ppo.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2025-ddcls-human-in-loop-rl.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2024-jlu-quadruped-path-planning.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2024-sensors-compressed-slam.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2024-cfima-markov-filtering.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2024-icma-ultrasonic-actuator.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2023-iet-time-sensitive-coverage.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2023-tro-probabilistic-topology.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2023-jfi-off-policy-tracking.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2023-tcns-distributed-h2-control.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2023-yac-bearing-enclosing.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2022-ascc-enclosing-saturation.pdf</loc>
+</url>
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2021-ral-pdop-coverage.pdf</loc>
+</url>
 </urlset>
