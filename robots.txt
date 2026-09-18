@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liangzhangprc.github.io/sitemap.xml
+Sitemap: https://liangzhangprc.github.io/papers-sitemap.xml
+Sitemap: https://liangzhangprc.github.io/baidusitemap.xml
