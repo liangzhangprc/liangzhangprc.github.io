@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
+    <loc>https://liangzhangprc.github.io/Homepage/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -20,7 +20,25 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/Homepage/index.html</loc>
+    <loc>https://liangzhangprc.github.io/about/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangzhangprc.github.io/zh/about/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -47,24 +65,6 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/zh/about/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liangzhangprc.github.io/about/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liangzhangprc.github.io/2021/08/04/hello-world/</loc>
     
     <lastmod>2021-08-03</lastmod>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://liangzhangprc.github.io/</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
