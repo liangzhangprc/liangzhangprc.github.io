@@ -47,6 +47,8 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .news-text { color: var(--ink); text-decoration: none; }
 a.news-text { color: var(--accent); }
 a.news-text:hover { text-decoration: underline; }
+.news-paper-link { color: var(--accent); text-decoration: underline; }
+.news-paper-link:hover { text-decoration-thickness: 2px; }
 .news-empty { color: var(--muted); }
 #page_main .page { float: none; width: auto; min-width: 0; margin: 0; }
 #page_main .page article { padding: 0; }
