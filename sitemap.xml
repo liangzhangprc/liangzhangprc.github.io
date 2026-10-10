@@ -11,24 +11,6 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liangzhangprc.github.io/zh/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liangzhangprc.github.io/about/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -48,6 +30,24 @@
   
   <url>
     <loc>https://liangzhangprc.github.io/zh/Publications/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangzhangprc.github.io/zh/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://liangzhangprc.github.io/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,6 +84,9 @@
   
 
   
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-ras-learning-based-path-planning-walking-jumping-quadrupedal-robot.pdf</loc>
+</url>
 <url>
   <loc>https://liangzhangprc.github.io/attaches/papers/2026-sms-physics-guided-mr-locomotion.pdf</loc>
 </url>

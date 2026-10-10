@@ -1,3 +1,4 @@
+https://liangzhangprc.github.io/attaches/papers/2026-ras-learning-based-path-planning-walking-jumping-quadrupedal-robot.pdf
 https://liangzhangprc.github.io/attaches/papers/2026-sms-physics-guided-mr-locomotion.pdf
 https://liangzhangprc.github.io/attaches/papers/2026-sms-mr-electrical-joint.pdf
 https://liangzhangprc.github.io/attaches/papers/2026-tie-mode-scheduled-joints.pdf
