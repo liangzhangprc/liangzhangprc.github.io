@@ -81,6 +81,9 @@ a.news-text:hover { text-decoration: underline; }
 .pub-venue { display: block; font-size: 1.5rem; color: var(--ink); line-height: 1.7; }
 .pub-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .7rem 1.3rem; margin-top: .65rem; }
 .pub-actions a { font-size: 1.4rem; line-height: 1.6; text-decoration: none; border-bottom: 1px solid #9db2c3; }
+.pub-actions .pub-award { display: inline-flex; align-items: center; gap: .35rem; padding: .15rem .75rem; border: 1px solid #d8b65f; border-radius: 999px; background: #fff8e7; color: #754909; font-size: 1.3rem; font-weight: 600; }
+.pub-actions .pub-award::before { content: '★'; color: #a66a0b; }
+.pub-actions .pub-award:hover { background: #ffefc5; }
 .pub-version { font-size: 1.3rem; color: var(--muted); }
 .contact-details { list-style: none; padding: 0 !important; }
 .contact-details li { margin-bottom: 1.2rem !important; }
