@@ -84,6 +84,8 @@ a.news-text:hover { text-decoration: underline; }
 .pub-actions .pub-award { display: inline-flex; align-items: center; gap: .35rem; padding: .15rem .75rem; border: 1px solid #d8b65f; border-radius: 999px; background: #fff8e7; color: #754909; font-size: 1.3rem; font-weight: 600; }
 .pub-actions .pub-award::before { content: '★'; color: #a66a0b; }
 .pub-actions .pub-award:hover { background: #ffefc5; }
+.pub-actions .pub-highlight { display: inline-flex; align-items: center; gap: .35rem; padding: .15rem .75rem; border: 1px solid #b9a4e8; border-radius: 999px; background: #f5f0ff; color: #56348f; font-size: 1.3rem; font-weight: 600; }
+.pub-actions .pub-highlight::before { content: '★'; color: #7046b8; }
 .pub-version { font-size: 1.3rem; color: var(--muted); }
 .contact-details { list-style: none; padding: 0 !important; }
 .contact-details li { margin-bottom: 1.2rem !important; }
