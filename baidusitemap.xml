@@ -20,24 +20,6 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liangzhangprc.github.io/zh/about/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liangzhangprc.github.io/zh/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -47,7 +29,25 @@
   </url>
   
   <url>
+    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liangzhangprc.github.io/about/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangzhangprc.github.io/zh/about/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     

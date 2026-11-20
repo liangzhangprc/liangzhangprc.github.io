@@ -20,24 +20,6 @@
   </url>
   
   <url>
-    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liangzhangprc.github.io/zh/about/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liangzhangprc.github.io/zh/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -47,7 +29,25 @@
   </url>
   
   <url>
+    <loc>https://liangzhangprc.github.io/Publications/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liangzhangprc.github.io/about/index.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangzhangprc.github.io/zh/about/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -84,6 +84,9 @@
   
 
   
+<url>
+  <loc>https://liangzhangprc.github.io/attaches/papers/2026-iccsie-sparse-llm-planning-leader-follower-uav-swarm-formation.pdf</loc>
+</url>
 <url>
   <loc>https://liangzhangprc.github.io/attaches/papers/2026-iccsie-multi-label-concurrent-cyberattacks.pdf</loc>
 </url>
@@ -176,8 +179,5 @@
 </url>
 <url>
   <loc>https://liangzhangprc.github.io/attaches/papers/2021-ral-pdop-coverage.pdf</loc>
-</url>
-<url>
-  <loc>https://liangzhangprc.github.io/attaches/papers/2026-iccsie-sparse-llm-planning-leader-follower-uav-swarm-formation.pdf</loc>
 </url>
 </urlset>
